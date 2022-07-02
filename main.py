@@ -12,7 +12,7 @@ bot = Client(
 
 
 START_TXT = """
-Hi {}, I'm Forward Tag Remover bot.\n\nForward me some messages, i will remove forward tag from them.\nAlso can do it in channels.
+ʜɪ {}, ɪ'ᴍ ғᴏʀᴡᴀʀᴅ ᴛᴀɢ ʀᴇᴍᴏᴠᴇʀ ʙᴏᴛ [🤖](https://telegra.ph/file/57873ee2279555866f4c9.jpg) .\n\nғᴏʀᴡᴀʀᴅ ᴍᴇ sᴏᴍᴇ ᴍᴇssᴀɢᴇs, ɪ ᴡɪʟʟ ʀᴇᴍᴏᴠᴇ ғᴏʀᴡᴀʀᴅ ᴛᴀɢ ғʀᴏᴍ ᴛʜᴇᴍ.\nᴀʟsᴏ ᴄᴀɴ ᴅᴏ ɪᴛ ɪɴ ᴄʜᴀɴɴᴇʟs.
 """
 
 START_BTN = InlineKeyboardMarkup(
